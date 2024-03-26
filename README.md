@@ -1,6 +1,6 @@
 # Detecção de Parasitas nematódeos em tempo real
 
-## ATENÇÃO! Este repositório está sendo, porém os códigos já estão disponibilizados na sua íntegra.
+## ATENÇÃO! Este repositório está sendo atualizado, porém os códigos já estão disponibilizados na sua íntegra.
 
 ---
 
